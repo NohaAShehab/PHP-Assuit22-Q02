@@ -1,0 +1,10 @@
+
+
+associative
+$row=["id"=>1, "std_name"=>"noha", "email"=>"jkhsdjkh@gmail.com"]
+
+object
+$row=(object)["id"=>1, "std_name"=>"noha", "email"=>"jkhsdjkh@gmail.com"]
+$row{
+'id'->1, 'std'->"noha", "email"->"jkhsdjkh@gmail.com"
+}
